@@ -4,3 +4,5 @@
 Leader : 이선아
 
 Member : 유채연, 이민진
+
+깃허브 이전 -> https://github.com/princesssuna/GETTAG_Col.git
